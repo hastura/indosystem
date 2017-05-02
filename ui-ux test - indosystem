@@ -1,0 +1,98 @@
+UI / UX Candidate Test
+Test No : INDSYS-TST-04
+Rev : 1.0 
+
+
+PT Wara wiri adalah sebuah perusahaan yang bergerak di bidang tour dan menawarkan jasa tour dalam kota (tidak termasuk pesawat). PT Wara wiri membutuhkan sebuah aplikasi mobile yang akan diberi nama “WaWi” yg berfungsi untuk para pengguna agar dapat melihat lihat paket tur yang ada dan melakukan booking
+
+Untuk dapat menggunakan aplikasinya pengguna diharuskan terlebih dahulu register serta login. 
+
+Tugas anda adalah membuat mobile app interface design . Fitur dan screen yang diinginkan adalah
+
+Register
+	Informasi yang diminta :
+Email
+Password
+Nama 
+No telepon
+Kota tempat tinggal 
+Negara
+Login
+Preferences untuk First time user (hanya muncul jika user baru pertamakali login)
+Ada pertanyaan “Kota seperti apa yang kamu sukai” dengan pilihan (boleh lebih dari 1):
+- berhawa dingin
+- berhawa panas
+- dekat pantai / laut
+- dekat pegunungan
+- banyak mallnya
+- banyak nightlifenya
+- banyak kulinernya
+- banyak pemandangan alamnya
+Ada pertanyaan “Seberapa sering kamu traveling” dengan pilihan (boleh lebih dari 1):
+- seminggu sekali
+- sebulan sekali
+- setahun sekali
+- kapanpun saya mau
+Ada pertanyaan “Pekerjaan kamu adalah” dengan pilihan (boleh lebih dari 1):
+- pelajar 
+- mahasiswa
+- karyawan
+- wiraswasta
+- lainnya
+
+	4. dashboard (setelah user login  )
+    Halaman ini berfungsi untuk menampilkan list tour tour yang ada, dimana setiap tour akan memiliki element element sebagi berikut :
+	     - Nama tour
+Nama kota
+Photo
+Short description tentang tour
+Berapa hari dan berapa malam lama tour
+Harga tour
+Share dan like 
+
+	5. tour detail
+    Halaman ini berfungsi untuk menampilkan detail tour halaman ini muncul jika salah satu item di list tour di halaman dashboard di clik. Di halaman ini ingin menampilkan :
+      - Nama tour
+Nama kota
+Photo ( bisa lebih dari 1 )
+long description tentang tour
+Berapa hari dan berapa malam lama tour
+Harga tour
+Share dan like 
+Syarat dan ketentuan tour
+Jumlah orang yang berminat ikut tour
+Tanggal berangkat
+tombol  book 
+	Ketika tombol book ditekan user akan ditampilkan sebuah nomor kode booking dan user akan diminta melakukan pembayaran lewat atm
+
+
+Yang perlu dikerjakan :
+
+Dari screen screen yang harus dibuat diatas, buatlah setidaknya 3 buah screen ( bebas mau screen yang mana) , nilai plus jika submit lebih dari 3 screen
+Anda boleh membuat untuk versi android atau versi ios , nilai plus jika membuat keduanya
+Untuk android agar menerapkan material design sesuai dengan guidelines di https://material.google.com 
+Untuk ios agar menerapkan design guidelines sesuai https://developer.apple.com/ios/human-interface-guidelines/
+
+Faktor penentu penilaian :
+
+Pemahaman soal tes
+Creativity
+Penerapan design guidelines 
+
+
+Pengiriman hasil test :
+
+Silahkan kirim hasil pekerjaan anda melalui salah satu cara berikut :
+Attach dan email ke : hrd@indosystem.com
+Simpan di cloud (dropbox, box, github, etc) dan share ke edy.senjaya@indosystem.com 
+
+Kirimkan hasil pekerjaan anda maksimal dalam waktu 7 x 24 jam setelah anda menerima soal ini. 
+
+ 
+
+
+
+		
+	
+
+
